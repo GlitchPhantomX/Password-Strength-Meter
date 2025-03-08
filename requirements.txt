@@ -1,12 +1,3 @@
-streamlit
-string
-random
-re
-requests
-hashlib
-datetime
-timedelta
-pandas
-math
-smtplib
-MIMEText
+streamlit==1.26.0
+pandas==2.0.3
+requests==2.31.0
