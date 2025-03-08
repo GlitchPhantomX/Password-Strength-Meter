@@ -39,5 +39,5 @@ The **Password Strength Meter** is a web application built using Streamlit that 
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/password-strength-meter.git
+   git clone https://github.com/GlitchPhantomX/Password-Strength-Meter.git
    cd password-strength-meter
