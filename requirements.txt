@@ -1,13 +1,7 @@
 streamlit
 pandas
 requests
-smtplib
-email
-datetime
-random
+hashlib
 re
 string
-hashlib
 math
-smtplib
-email.mime.text
