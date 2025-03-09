@@ -1,7 +1,4 @@
-streamlit
-pandas
-requests
-hashlib
-re
-string
-math
+python
+streamlit  
+pandas  
+requests  
