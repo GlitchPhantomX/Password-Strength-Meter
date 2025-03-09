@@ -1,4 +1,6 @@
-python
+python>=3.9  
+pip>=25.0.1  
 streamlit  
 pandas  
 requests  
+rich  
